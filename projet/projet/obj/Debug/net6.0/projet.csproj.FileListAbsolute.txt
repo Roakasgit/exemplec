@@ -1,0 +1,15 @@
+C:\rkas\exemplec\projet\projet\bin\Debug\net6.0\projet.exe
+C:\rkas\exemplec\projet\projet\bin\Debug\net6.0\projet.deps.json
+C:\rkas\exemplec\projet\projet\bin\Debug\net6.0\projet.runtimeconfig.json
+C:\rkas\exemplec\projet\projet\bin\Debug\net6.0\projet.dll
+C:\rkas\exemplec\projet\projet\bin\Debug\net6.0\ref\projet.dll
+C:\rkas\exemplec\projet\projet\bin\Debug\net6.0\projet.pdb
+C:\rkas\exemplec\projet\projet\obj\Debug\net6.0\projet.csproj.AssemblyReference.cache
+C:\rkas\exemplec\projet\projet\obj\Debug\net6.0\projet.GeneratedMSBuildEditorConfig.editorconfig
+C:\rkas\exemplec\projet\projet\obj\Debug\net6.0\projet.AssemblyInfoInputs.cache
+C:\rkas\exemplec\projet\projet\obj\Debug\net6.0\projet.AssemblyInfo.cs
+C:\rkas\exemplec\projet\projet\obj\Debug\net6.0\projet.csproj.CoreCompileInputs.cache
+C:\rkas\exemplec\projet\projet\obj\Debug\net6.0\projet.dll
+C:\rkas\exemplec\projet\projet\obj\Debug\net6.0\ref\projet.dll
+C:\rkas\exemplec\projet\projet\obj\Debug\net6.0\projet.pdb
+C:\rkas\exemplec\projet\projet\obj\Debug\net6.0\projet.genruntimeconfig.cache
